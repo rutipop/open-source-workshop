@@ -5,4 +5,4 @@ def get_orthogonal_matrix(dim):
     return Q
 
 def do_nothing():
-    return 0;
+    return 1;
